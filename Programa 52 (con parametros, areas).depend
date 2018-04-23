@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430263436 source:c:\users\luis\dropbox\inco\programación\programa 52 (con parametros, areas)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
